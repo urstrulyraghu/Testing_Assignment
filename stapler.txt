@@ -1,0 +1,7 @@
+Test Cases for Stapler:
+
+1. Pins aren't Availble.
+2. Pins are too big or too small
+3. Too many papers to staple
+4. Pins got struck in between
+5. Pin remover is bent.
